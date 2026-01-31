@@ -1,5 +1,17 @@
 # Self-introduction
 
+## AWA - AnytimeWithAgents v1.0.1
+
+**思考と実行を拡張するAI OS**
+AI OS that extends thinking and execution
+
+[![Download on the App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/awa-anytimewithagents/id6758113801)
+[![App Storeからダウンロード](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/jp/app/awa-anytimewithagents/id6758113801)
+
+#AnytimeWithAgents #AI #iOS #Agent
+
+---
+
 ## Profile
 
 | key | value |
@@ -22,7 +34,14 @@
 
 ## Summary
 
-Comming Soon…
+Building AI-powered tools that extend human thinking and execution.
+
+Currently focused on:
+- **AWA (AnytimeWithAgents)** - iOS app combining AI Agent + SSH Terminal + Apple Intelligence
+- AI/ML applications in NLP, Computer Vision, and Time Series analysis
+- Knowledge Graph systems and AI-driven content creation
+
+Background in Neuroscience and Biochemistry, applying scientific thinking to software development.
 
 <!--
 **Nozium/Nozium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
