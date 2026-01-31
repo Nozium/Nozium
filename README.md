@@ -2,6 +2,10 @@
 
 ## AWA - AnytimeWithAgents v1.0.1
 
+<a href="https://apps.apple.com/jp/app/awa-anytimewithagents/id6758113801">
+  <img src="assets/awa-icon.png" alt="AWA Icon" width="128">
+</a>
+
 **思考と実行を拡張するAI OS**
 AI OS that extends thinking and execution
 
