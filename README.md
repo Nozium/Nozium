@@ -1,21 +1,5 @@
 # Self-introduction
 
-## AWA - AnytimeWithAgents v1.0.1
-
-<a href="https://apps.apple.com/jp/app/awa-anytimewithagents/id6758113801">
-  <img src="assets/awa-icon.png" alt="AWA Icon" width="128">
-</a>
-
-**思考と実行を拡張するAI OS**
-AI OS that extends thinking and execution
-
-[![Download on the App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/awa-anytimewithagents/id6758113801)
-[![App Storeからダウンロード](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/jp/app/awa-anytimewithagents/id6758113801)
-
-#AnytimeWithAgents #AI #iOS #Agent
-
----
-
 ## Profile
 
 | key | value |
@@ -26,7 +10,7 @@ AI OS that extends thinking and execution
 | twitter | @Nozium1 |
 | Wantedly | @kaoru_nozue |
 
-## ****Profile Supplements****
+## Profile Supplements
 
 | key | value |
 | --- | --- |
@@ -36,51 +20,52 @@ AI OS that extends thinking and execution
 | New Charenge | - ALIFE / WBA <br>- Knowledge-Graph / AI-Novel-Writing / Knowledge-Compression / Hyper-Availability <br>- Crypto / x-to-earn <br>- Join to competitions |
 | Hobbies | - Drip and Drink Coffee <br>- Read new brain-tech / neuro-tech research |
 
-## Colorless Guild
+## Products
 
-<a href="https://colorless-guild.utakata-scifi.com/">
-  <img src="assets/colorless-guild-icon.png" alt="Colorless Guild Icon" width="128">
-</a>
-
-**Curiosity is all you need**
-
-非貨幣経済コミュニティプラットフォーム / Non-monetary economy community platform
-
-| Pillar | Description |
-| --- | --- |
-| Quest | スキル交換リクエストの投稿・応募 / Post & apply for skill exchange requests |
-| Assets | 書籍・ツール・電子機器の貸し借り / Lend & borrow books, tools, devices |
-| Wishlist | コミュニティに必要なものを投票・寄付で調達 / Vote & donate for community needs |
-
-Cred (信用ポイント) によるレピュテーションシステムで、金銭取引なしにコミュニティを運営。
-
-Tech: React + Vite, Hono on Cloudflare Workers, D1, R2, Drizzle ORM, pnpm monorepo
-
-#ColorlessGuild #NonMonetaryEconomy #Community #Cloudflare
-
----
-
-## Summary
-
-Building AI-powered tools and community platforms that extend human thinking and collaboration.
-
-Currently focused on:
-- **AWA (AnytimeWithAgents)** - iOS app combining AI Agent + SSH Terminal + Apple Intelligence
-- **Colorless Guild** - Non-monetary community platform driven by curiosity and Cred reputation
-- AI/ML applications in NLP, Computer Vision, and Time Series analysis
-- Knowledge Graph systems and AI-driven content creation
-
-Background in Neuroscience and Biochemistry, applying scientific thinking to software development.
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://apps.apple.com/jp/app/awa-anytimewithagents/id6758113801">
+        <img src="assets/awa-icon.png" alt="AWA Icon" width="80">
+      </a>
+      <br>
+      <b>AWA - AnytimeWithAgents</b>
+      <br>
+      思考と実行を拡張するAI OS
+      <br>
+      <sub>AI Agent + SSH Terminal + Apple Intelligence</sub>
+      <br><br>
+      <a href="https://apps.apple.com/jp/app/awa-anytimewithagents/id6758113801">
+        <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="App Store" height="28">
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://colorless-guild.utakata-scifi.com/">
+        <img src="assets/colorless-guild-icon.png" alt="Colorless Guild Icon" width="80">
+      </a>
+      <br>
+      <b>Colorless Guild</b>
+      <br>
+      Curiosity is all you need
+      <br>
+      <sub>非貨幣経済コミュニティプラットフォーム</sub>
+      <br><br>
+      <a href="https://colorless-guild.utakata-scifi.com/">
+        <img src="https://img.shields.io/badge/Visit-Site-blue" alt="Visit Site" height="28">
+      </a>
+    </td>
+  </tr>
+</table>
 
 <!--
 **Nozium/Nozium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I'm currently working on ...
+- 🌱 I'm currently learning ...
+- 👯 I'm looking to collaborate on ...
+- 🤔 I'm looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
