@@ -36,12 +36,37 @@ AI OS that extends thinking and execution
 | New Charenge | - ALIFE / WBA <br>- Knowledge-Graph / AI-Novel-Writing / Knowledge-Compression / Hyper-Availability <br>- Crypto / x-to-earn <br>- Join to competitions |
 | Hobbies | - Drip and Drink Coffee <br>- Read new brain-tech / neuro-tech research |
 
+## Colorless Guild
+
+<a href="https://colorless-guild.utakata-scifi.com/">
+  <img src="assets/colorless-guild-icon.png" alt="Colorless Guild Icon" width="128">
+</a>
+
+**Curiosity is all you need**
+
+非貨幣経済コミュニティプラットフォーム / Non-monetary economy community platform
+
+| Pillar | Description |
+| --- | --- |
+| Quest | スキル交換リクエストの投稿・応募 / Post & apply for skill exchange requests |
+| Assets | 書籍・ツール・電子機器の貸し借り / Lend & borrow books, tools, devices |
+| Wishlist | コミュニティに必要なものを投票・寄付で調達 / Vote & donate for community needs |
+
+Cred (信用ポイント) によるレピュテーションシステムで、金銭取引なしにコミュニティを運営。
+
+Tech: React + Vite, Hono on Cloudflare Workers, D1, R2, Drizzle ORM, pnpm monorepo
+
+#ColorlessGuild #NonMonetaryEconomy #Community #Cloudflare
+
+---
+
 ## Summary
 
-Building AI-powered tools that extend human thinking and execution.
+Building AI-powered tools and community platforms that extend human thinking and collaboration.
 
 Currently focused on:
 - **AWA (AnytimeWithAgents)** - iOS app combining AI Agent + SSH Terminal + Apple Intelligence
+- **Colorless Guild** - Non-monetary community platform driven by curiosity and Cred reputation
 - AI/ML applications in NLP, Computer Vision, and Time Series analysis
 - Knowledge Graph systems and AI-driven content creation
 
