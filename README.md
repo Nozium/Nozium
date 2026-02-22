@@ -55,6 +55,24 @@
       </a>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://utakata-scifi.com/">
+        <img src="assets/utakata-icon.svg" alt="Utakata-SciFi Icon" width="80">
+      </a>
+      <br>
+      <b>Utakata-SciFi</b>
+      <br>
+      あなたの明日のサイエンスフィクション
+      <br>
+      <sub>Your science fiction for tomorrow</sub>
+      <br><br>
+      <a href="https://utakata-scifi.com/">
+        <img src="https://img.shields.io/badge/Visit-Site-d4a843" alt="Visit Site" height="28">
+      </a>
+    </td>
+    <td></td>
+  </tr>
 </table>
 
 <!--
