@@ -80,18 +80,14 @@
   </tr>
   <tr>
     <td width="120">
-      <a href="https://github.com/Nozium/rocketnail">
-        <img src="assets/rocketnail-icon.png" alt="Rocketnail" width="120" height="120" style="border-radius: 22px;">
-      </a>
+      <img src="assets/rocketnail-icon.png" alt="Rocketnail" width="120" height="120" style="border-radius: 22px;">
     </td>
     <td>
-      <b><a href="https://github.com/Nozium/rocketnail">Rocketnail</a></b>
+      <b>Rocketnail</b>
       <br>
       SNS 向けサムネイルメーカー — Create thumbnails for X, YouTube, Instagram, note with text overlays and backgrounds
       <br><br>
-      <a href="https://github.com/Nozium/rocketnail">
-        <img src="https://img.shields.io/badge/GitHub-Repo-181717?logo=github" alt="GitHub" height="24">
-      </a>
+      <img src="https://img.shields.io/badge/App_Store-申請中-orange?logo=apple&logoColor=white" alt="App Store 申請中" height="24">
     </td>
   </tr>
 </table>
