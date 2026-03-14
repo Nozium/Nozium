@@ -90,6 +90,30 @@
       <img src="https://img.shields.io/badge/App_Store-申請中-orange?logo=apple&logoColor=white" alt="App Store 申請中" height="24">
     </td>
   </tr>
+  <tr>
+    <td width="120">
+      <img src="assets/closetome-icon.png" alt="CloseToMe" width="120" height="120" style="border-radius: 22px;">
+    </td>
+    <td>
+      <b>CloseToMe</b>
+      <br>
+      位置情報ベースのショート動画アプリ — Capture short location-based video moments and connect with nearby users
+      <br><br>
+      <img src="https://img.shields.io/badge/App_Store-申請中-orange?logo=apple&logoColor=white" alt="App Store 申請中" height="24">
+    </td>
+  </tr>
+  <tr>
+    <td width="120">
+      <img src="https://img.shields.io/badge/もしも-App-E8594E?style=for-the-badge&logoColor=white" alt="moshimo.app" height="120">
+    </td>
+    <td>
+      <b>moshimo.app</b>
+      <br>
+      AI ワークフロー自動生成プラットフォーム — 「もしも〇〇だったら」を自然言語で表現すると AI が DAG ワークフローを自動生成・実行
+      <br><br>
+      <img src="https://img.shields.io/badge/開発中-WIP-lightgrey" alt="開発中" height="24">
+    </td>
+  </tr>
 </table>
 
 ### DevTool
