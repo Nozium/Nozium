@@ -22,56 +22,114 @@
 
 ## Products
 
+### Web Service
+
 <table>
   <tr>
-    <td align="center" width="50%">
-      <a href="https://apps.apple.com/jp/app/awa-anytimewithagents/id6758113801">
-        <img src="assets/awa-icon.png" alt="AWA Icon" width="80">
+    <td width="120">
+      <a href="https://utakata-scifi.com/">
+        <img src="assets/utakata-icon.svg" alt="Utakata-SciFi" width="120" height="120">
       </a>
+    </td>
+    <td>
+      <b><a href="https://utakata-scifi.com/">Utakata-SciFi</a></b>
       <br>
-      <b>AWA - AnytimeWithAgents</b>
+      あなたの明日のサイエンスフィクション — Your science fiction for tomorrow
+      <br><br>
+      <a href="https://utakata-scifi.com/">
+        <img src="https://img.shields.io/badge/Visit-Site-d4a843" alt="Visit Site" height="24">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="120">
+      <a href="https://colorless-guild.utakata-scifi.com/">
+        <img src="assets/colorless-guild-icon.png" alt="Colorless Guild" width="120" height="120">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://colorless-guild.utakata-scifi.com/">Colorless Guild</a></b>
       <br>
-      思考と実行を拡張するAI OS
+      Curiosity is all you need — 非貨幣経済コミュニティプラットフォーム
+      <br><br>
+      <a href="https://colorless-guild.utakata-scifi.com/">
+        <img src="https://img.shields.io/badge/Visit-Site-blue" alt="Visit Site" height="24">
+      </a>
+    </td>
+  </tr>
+</table>
+
+### iOS App
+
+<table>
+  <tr>
+    <td width="120">
+      <a href="https://apps.apple.com/jp/app/awa-anytimewithagents/id6758113801">
+        <img src="assets/awa-icon.png" alt="AWA" width="120" height="120" style="border-radius: 22px;">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://apps.apple.com/jp/app/awa-anytimewithagents/id6758113801">AWA - AnytimeWithAgents</a></b>
       <br>
-      <sub>AI Agent + SSH Terminal + Apple Intelligence</sub>
+      思考と実行を拡張する AI OS — AI Agent + SSH Terminal + Apple Intelligence
       <br><br>
       <a href="https://apps.apple.com/jp/app/awa-anytimewithagents/id6758113801">
         <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="App Store" height="28">
       </a>
     </td>
-    <td align="center" width="50%">
-      <a href="https://colorless-guild.utakata-scifi.com/">
-        <img src="assets/colorless-guild-icon.png" alt="Colorless Guild Icon" width="80">
+  </tr>
+  <tr>
+    <td width="120">
+      <a href="https://github.com/Nozium/rocketnail">
+        <img src="assets/rocketnail-icon.png" alt="Rocketnail" width="120" height="120" style="border-radius: 22px;">
       </a>
+    </td>
+    <td>
+      <b><a href="https://github.com/Nozium/rocketnail">Rocketnail</a></b>
       <br>
-      <b>Colorless Guild</b>
-      <br>
-      Curiosity is all you need
-      <br>
-      <sub>非貨幣経済コミュニティプラットフォーム</sub>
+      SNS 向けサムネイルメーカー — Create thumbnails for X, YouTube, Instagram, note with text overlays and backgrounds
       <br><br>
-      <a href="https://colorless-guild.utakata-scifi.com/">
-        <img src="https://img.shields.io/badge/Visit-Site-blue" alt="Visit Site" height="28">
+      <a href="https://github.com/Nozium/rocketnail">
+        <img src="https://img.shields.io/badge/GitHub-Repo-181717?logo=github" alt="GitHub" height="24">
+      </a>
+    </td>
+  </tr>
+</table>
+
+### DevTool
+
+<table>
+  <tr>
+    <td width="120">
+      <a href="https://github.com/Nozium/thumbnail-maker">
+        <img src="assets/thumbnail-maker-icon.svg" alt="Thumbnail Maker" width="120" height="120">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://github.com/Nozium/thumbnail-maker">Thumbnail Maker</a></b>
+      <br>
+      macOS 向け CLI サムネイル生成ツール — Swift 製コマンドラインツールで画像にテキストオーバーレイを追加
+      <br><br>
+      <a href="https://github.com/Nozium/thumbnail-maker">
+        <img src="https://img.shields.io/badge/GitHub-Repo-181717?logo=github" alt="GitHub" height="24">
       </a>
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%">
-      <a href="https://utakata-scifi.com/">
-        <img src="assets/utakata-icon.svg" alt="Utakata-SciFi Icon" width="80">
-      </a>
-      <br>
-      <b>Utakata-SciFi</b>
-      <br>
-      あなたの明日のサイエンスフィクション
-      <br>
-      <sub>Your science fiction for tomorrow</sub>
-      <br><br>
-      <a href="https://utakata-scifi.com/">
-        <img src="https://img.shields.io/badge/Visit-Site-d4a843" alt="Visit Site" height="28">
+    <td width="120">
+      <a href="https://github.com/Nozium/rork-asc-support-plugin">
+        <img src="https://img.shields.io/badge/ASC-Plugin-5856D6?style=for-the-badge&logo=apple&logoColor=white" alt="rork-asc-support" height="120">
       </a>
     </td>
-    <td></td>
+    <td>
+      <b><a href="https://github.com/Nozium/rork-asc-support-plugin">rork-asc-support-plugin</a></b>
+      <br>
+      Claude Code plugin for App Store Connect — IAP/サブスクリプションの設定・診断・審査準備を自動化
+      <br><br>
+      <a href="https://github.com/Nozium/rork-asc-support-plugin">
+        <img src="https://img.shields.io/badge/GitHub-Repo-181717?logo=github" alt="GitHub" height="24">
+      </a>
+    </td>
   </tr>
 </table>
 
