@@ -80,14 +80,18 @@
   </tr>
   <tr>
     <td width="120">
-      <img src="assets/rocketnail-icon.png" alt="Rocketnail" width="120" height="120" style="border-radius: 22px;">
+      <a href="https://apps.apple.com/jp/app/rocketnail/id6759993389">
+        <img src="assets/rocketnail-icon.png" alt="Rocketnail" width="120" height="120" style="border-radius: 22px;">
+      </a>
     </td>
     <td>
-      <b>Rocketnail</b>
+      <b><a href="https://apps.apple.com/jp/app/rocketnail/id6759993389">Rocketnail</a></b>
       <br>
       SNS 向けサムネイルメーカー — Create thumbnails for X, YouTube, Instagram, note with text overlays and backgrounds
       <br><br>
-      <img src="https://img.shields.io/badge/App_Store-申請中-orange?logo=apple&logoColor=white" alt="App Store 申請中" height="24">
+      <a href="https://apps.apple.com/jp/app/rocketnail/id6759993389">
+        <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="App Store" height="28">
+      </a>
     </td>
   </tr>
   <tr>
