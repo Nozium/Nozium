@@ -108,7 +108,7 @@
   </tr>
   <tr>
     <td width="120">
-      <img src="https://img.shields.io/badge/もしも-App-E8594E?style=for-the-badge&logoColor=white" alt="moshimo.app" height="120">
+      <img src="assets/moshimo-icon.png" alt="moshimo.app" width="120" height="120" style="border-radius: 22px;">
     </td>
     <td>
       <b>moshimo.app</b>
