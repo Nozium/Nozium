@@ -103,7 +103,7 @@
       <br>
       位置情報ベースのショート動画アプリ — Capture short location-based video moments and connect with nearby users
       <br><br>
-      <img src="https://img.shields.io/badge/App_Store-申請中-orange?logo=apple&logoColor=white" alt="App Store 申請中" height="24">
+      <img src="https://img.shields.io/badge/TestFlight-UX_Testing-44C0FF?logo=apple&logoColor=white" alt="TestFlight UX Testing" height="24">
     </td>
   </tr>
   <tr>
