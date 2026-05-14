@@ -155,6 +155,25 @@
       </a>
     </td>
   </tr>
+  <tr>
+    <td width="120">
+      <a href="https://nozium.github.io/url2qr/">
+        <img src="https://img.shields.io/badge/URL2QR-Relay-111111?style=for-the-badge&logo=qrcode&logoColor=white" alt="url2qr" height="120">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://nozium.github.io/url2qr/">url2qr</a></b>
+      <br>
+      URL → QR コード変換ツール — Claude Code 等のログイン URL を別端末で素早く開くための小型ユーティリティ。Python CLI（<code>uv run url2qr.py {url}</code>）と Web リレー（GitHub Pages）の 2 形態を提供。
+      <br><br>
+      <a href="https://nozium.github.io/url2qr/">
+        <img src="https://img.shields.io/badge/Web-Live-44C0FF?logo=githubpages&logoColor=white" alt="Live" height="24">
+      </a>
+      <a href="https://github.com/Nozium/url2qr">
+        <img src="https://img.shields.io/badge/GitHub-Repo-181717?logo=github" alt="GitHub" height="24">
+      </a>
+    </td>
+  </tr>
 </table>
 
 <!--
