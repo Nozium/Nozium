@@ -174,6 +174,25 @@
       </a>
     </td>
   </tr>
+  <tr>
+    <td width="120">
+      <a href="https://github.com/Nozium/manashiki-models-swift">
+        <img src="https://img.shields.io/badge/Manashiki-Models_Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="manashiki-models-swift" height="120">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://github.com/Nozium/manashiki-models-swift">manashiki-models-swift</a></b>
+      <br>
+      Official Swift SDK for Manashiki Models — Edge AI Model Provider。Nozium/manashiki-models の <code>sdk/swift/</code> を自動 mirror して配布。iOS / watchOS / macOS から DLC 取得・SHA-256 verification・device-aware benchmark を呼ぶための公式クライアント。
+      <br><br>
+      <a href="https://github.com/Nozium/manashiki-models-swift">
+        <img src="https://img.shields.io/badge/GitHub-Repo-181717?logo=github" alt="GitHub" height="24">
+      </a>
+      <a href="https://github.com/Nozium/manashiki-models-swift">
+        <img src="https://img.shields.io/badge/SwiftPM-compatible-FA7343?logo=swift&logoColor=white" alt="SwiftPM" height="24">
+      </a>
+    </td>
+  </tr>
 </table>
 
 <!--
